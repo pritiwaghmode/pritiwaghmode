@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently working on **Bank Analytics Data**
 
-- 👨‍💻 All of my projects are available at [https://github.com/pritiwaghmode](https://github.com/pritiwaghmode)
+- 👨‍💻 All of my projects are available at https://mavenanalytics.io/profile/priti_waghmode
 
 - 📫 How to reach me **waghmodepriti1997@gmail.com**
 
